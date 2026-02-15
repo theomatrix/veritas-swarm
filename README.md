@@ -365,9 +365,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, issues, or collaboration opportunities:
 
-- **GitHub Issues**: [Create an issue](https://github.com/your-org/veritas-swarm/issues)
-- **Email**: your-email@example.com
-- **Twitter**: [@YourHandle](https://twitter.com/YourHandle)
+- **GitHub Issues**: [Create an issue](https://github.com/theomatrix/veritas-swarm/issues)
+- **Email**: tvigilante75@gmail.com
 
 ---
 
