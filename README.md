@@ -174,7 +174,7 @@ graph TD
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-org/veritas-swarm.git
+   git clone https://github.com/theomatrix/veritas-swarm.git
    cd veritas-swarm/backend-adk-agents
    ```
 
