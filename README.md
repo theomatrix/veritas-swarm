@@ -10,7 +10,7 @@
 
 **Veritas** is an advanced forensic system that uses a "swarm" of specialized AI agents to detect synthetic media. Unlike single-model detectors, Veritas employs a team of experts—biometricians, physicists, and signal analysts—who collaborate to deliver comprehensive, explainable verdicts.
 
-[Features](#-features) • [Architecture](#-architecture) • [Quick Start](#-quick-start) • [Documentation](#-documentation) • [Demo](#-demo)
+[Features](#-features) • [Architecture](#-architecture) • [Quick Start](#-quick-start) • [Documentation](#-documentation)
 
 </div>
 
