@@ -7,7 +7,6 @@
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![React](https://img.shields.io/badge/React-18.3-61DAFB.svg)](https://reactjs.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-Latest-009688.svg)](https://fastapi.tiangolo.com/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 **Veritas** is an advanced forensic system that uses a "swarm" of specialized AI agents to detect synthetic media. Unlike single-model detectors, Veritas employs a team of experts—biometricians, physicists, and signal analysts—who collaborate to deliver comprehensive, explainable verdicts.
 
@@ -256,19 +255,6 @@ Comprehensive documentation is available in the `docs/` directory:
 
 ---
 
-## 🎬 Demo
-
-### Landing Page
-![Landing Page](docs/screenshots/landing.png)
-
-### Analysis in Progress
-![Analysis](docs/screenshots/analysis.png)
-
-### Verdict Display
-![Verdict](docs/screenshots/verdict.png)
-
----
-
 ## 🧪 Testing
 
 ### Backend Tests
@@ -343,30 +329,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-- **NVIDIA** - For providing access to state-of-the-art LLMs via NIM
-- **CrewAI** - For the excellent multi-agent orchestration framework
-- **OpenCV** - For computer vision capabilities
-- **FastAPI** - For the modern, fast API framework
-
----
-
-## 📧 Contact
-
-For questions, issues, or collaboration opportunities:
-
-- **GitHub Issues**: [Create an issue](https://github.com/theomatrix/veritas-swarm/issues)
-- **Email**: tvigilante75@gmail.com
 
 ---
 
