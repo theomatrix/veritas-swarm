@@ -8,6 +8,7 @@
 [![React](https://img.shields.io/badge/React-18.3-61DAFB.svg)](https://reactjs.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-Latest-009688.svg)](https://fastapi.tiangolo.com/)
 [CodeTriage](https://www.codetriage.com/theomatrix/veritas-swarm/badges/users.svg)
+[![Open Source Helpers](https://www.codetriage.com/theomatrix/veritas-swarm/badges/users.svg)](https://www.codetriage.com/theomatrix/veritas-swarm)
 
 **Veritas** is an advanced forensic system that uses a "swarm" of specialized AI agents to detect synthetic media. Unlike single-model detectors, Veritas employs a team of experts—biometricians, physicists, and signal analysts—who collaborate to deliver comprehensive, explainable verdicts.
 
